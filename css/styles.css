@@ -1,0 +1,4 @@
+		h3 { color: red; text-decoration: underline; font-size: 20px; }
+		#my-id { background-color: lightblue; font-style: italic; }
+		.my-class { text-align: center; margin: 10px; }
+		.my-try { color: red; background-color: lightblue; border: 1px solid blue; text-align: center; padding: 0.5em; }
